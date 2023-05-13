@@ -2,7 +2,7 @@
 
 ## ÍNDICE
 
-* [1. Intro](#)
+* [1. Intro](https://github.com/LeiramLF/clondegoogle/edit/main/README.md#1-intro)
 * [2. ¿Qué construí?](#)
 * [3. Objetivo del proyecto](#)
 
@@ -24,5 +24,5 @@ En este proyecto me enfoque en construir la clonación de la interfaz Google. Co
 * **Footer**: Sección que incluye hipervínculos al final de la página.
 
 
-## 3.Objetivo del proyecto
+## 3. Objetivo del proyecto
 Aprender a utilizar las etiquetas de HTML5 y los estilos de CSS3
