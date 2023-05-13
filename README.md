@@ -4,7 +4,7 @@
 
 * [1. Intro](https://github.com/LeiramLF/clondegoogle/blob/main/README.md#1-intro)
 * [2. ¿Qué construí?](https://github.com/LeiramLF/clondegoogle/blob/main/README.md#2-qué-construí)
-* [3. Objetivo del proyecto](#)
+* [3. Objetivo del proyecto](https://github.com/LeiramLF/clondegoogle/blob/main/README.md#3-objetivo-del-proyecto)
 
 ****
 
